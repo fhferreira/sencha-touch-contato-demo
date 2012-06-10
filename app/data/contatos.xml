@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contatos>
+	<contato>
+		<nome>Joao</nome>
+		<sobrenome>Silva</sobrenome>
+		<email>joaosilva@hotmail.com</email>
+		<telefone>(16)9208-4635</telefone>
+		<endereco>Rua major mendonca 2099, Franca/SP</endereco>
+	</contato>
+	<contato>
+		<nome>Jose</nome>
+		<sobrenome>Silva</sobrenome>
+		<email>josesilva@hotmail.com</email>
+		<telefone>(16)9208-4636</telefone>
+		<endereco>Rua major mendonca 2100, Franca/SP</endereco>
+	</contato>
+	<contato>
+		<nome>Joaquim</nome>
+		<sobrenome>Silva</sobrenome>
+		<email>joaquimsilva@hotmail.com</email>
+		<telefone>(16)9208-4637</telefone>
+		<endereco>Rua major mendonca 2101, Franca/SP</endereco>
+	</contato>
+</contatos>
